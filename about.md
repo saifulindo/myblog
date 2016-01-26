@@ -11,9 +11,11 @@ Moto
 ===
 > Pentingnya Proses Pembelajaran.
 
-Pengenalan
+Selayang Pandang
 ===
-Blog ini ditulis oleh M. Saiful Mukharom, biasa dipanggil Saiful, lebih suka dengan nama Muhammad Syaiful. Sedangkan nama kun-yah Abu Assyajaroh Muhammad Syaiful bin Saelan bin Todinomo bin Tjokrodikromo Al-Fatiy.
+Blog ini lebih kusus diperuntukkan sebagai bockmark kegiatan dan aktifitas komputer saya, sehingga lebih kearah sebagai pengingat aktifitas apa saja yang pernah saya lakukan dengan komputer.
+
+Jadi mungkin, artikel tidak lengkap dan semisalnya, atau hanya sekedar cerita tidak jelas, daripada di posting di jejaring sosial, mending dibuat blog ajah, biar lebih bermanfaat.
 
 Pendidikan
 ===
@@ -22,5 +24,6 @@ Pendidikan
 Contact
 ===
 
+- twitter: [@saifulindo](https://twitter.com/@saifulindo)
 - github:[saifulindo](https://github.com/saifulindo)
 - Email:[ritnesaif@gmail.com](ritnesaif@gmail.com)
