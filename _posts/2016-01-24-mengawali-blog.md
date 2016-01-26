@@ -7,7 +7,7 @@ author: Muhammad Syaiful
 excerpt: "Blog Pertama ini disiapkan mengunakan framework Jekyll, tepatnya mengunakan themes jekyll-pithy, yang dibuat seseorang berkebangsaan chinese."
 ---
 
-Blog Pertama ini disiapkan menggunakan framework [Jekyll](https://jekyllrb.com), tepatnya menggunakan themes [jekyll-pithy](https://github.com/guovz/jekyll-pithy), anda dapat mendownloadnya sendiri, themes ini dibuat seorang programmer berkebangsaan chinese, namanya Jaylin Wang. LICENSET themes yang digunakan memakai [MIT LICENSE](/myblog/LICENSE.md).
+Blog Pertama ini disiapkan menggunakan framework [Jekyll](https://jekyllrb.com), tepatnya menggunakan themes [jekyll-pithy](https://github.com/guovz/jekyll-pithy), anda dapat mendownloadnya sendiri, themes ini dibuat seorang programmer berkebangsaan chinese, namanya Jaylin Wang. LICENSE themes yang digunakan memakai [MIT LICENSE](/myblog/LICENSE.md).
 
 Baik Kita Awali yang pertama kali adalah, menyiap software yang dibutuhkan yaitu:
 
@@ -15,7 +15,7 @@ Baik Kita Awali yang pertama kali adalah, menyiap software yang dibutuhkan yaitu
 - Ruby Language
 - RubyGems
 - NPM (Node Package Manager)
-- Git Version COntrol
+- Git Version Control
 - Account di [GitHub](http://github.com)
 
 Setelah software yang dibutuhkan terpenuhi maka, yang anda lakukan adalah:
