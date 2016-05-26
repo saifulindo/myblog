@@ -18,6 +18,7 @@ kramdown:
   use_coderay: true
   coderay:
     coderay_line_numbers:  nil
+    syntax_highlighter: coderay
 
 
 
@@ -34,3 +35,6 @@ paginate_path: "page/:num"
 sass:
     sass_dir: /assets/stylesheet
     style: :compressed
+
+gems: [jekyll-paginate]
+
