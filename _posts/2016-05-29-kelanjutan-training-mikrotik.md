@@ -75,4 +75,4 @@ Sebagai Kelanjutan diklat training maka para peserta mohon untuk mengerjakan soa
 4. Koneksikan Router ke Internet sebagai NAT. <br> laptop pada ether1 sebagai client. <br>Jalankan Hotspot pada Ether1, Apabila hotspot sudah running, buatlah agar. <br> IP tertentu bisa dipakai laptop untuk browsing internet tanpa authentifikasi <br> Hanya browsing www.training-mikrotik.com yang tanpa authentifikasi hotspot <br> Screenshoot Konfigurasi yang digunakan.
 
 ### Kemana Kirim Tugas ?
-Tugas di kirim ke email `totmikrotik@smk-ti.sch.id` Terakhir dikumpulkan 7 hari kedepan, yaitu tanggal 7 Juni 2016.
+Tugas di kirim ke email `ritnesaif@gmail.com` Terakhir dikumpulkan 7 hari kedepan, yaitu tanggal 7 Juni 2016.
