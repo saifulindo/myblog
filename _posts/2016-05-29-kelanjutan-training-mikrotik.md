@@ -9,11 +9,11 @@ excerpt: ""
 
 Diklat Mikrotik Guna Meningkatkan Guru SMK dalam Pemanfaatan Teknologi Informasi (60 Jam)
 
-Ketua		: <br>M. Syafiqurahman, S.Kom.
-Skeretaris	: <br>Ali Fauzi, M.Kom.
-Bendahara	: <br>Ruli Widya A, S.Kom.
-Pemateri 1	: <br>M. Saiful Mukharom,S.Kom
-Pemateri 2	: <br>Dicky Wahyu Ramadani, S.Kom.
+Ketua		: <br>M. Syafiqurahman, S.Kom.<br>
+Skeretaris	: <br>Ali Fauzi, M.Kom.<br>
+Bendahara	: <br>Ruli Widya A, S.Kom.<br>
+Pemateri 1	: <br>M. Saiful Mukharom,S.Kom<br>
+Pemateri 2	: <br>Dicky Wahyu Ramadani, S.Kom.<br>
 Moderator	: <br>Heru Mahayani, S.Kom.<br>
 		      M. Fadholi, S.Kom.
 
