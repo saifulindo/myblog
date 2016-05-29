@@ -66,7 +66,8 @@ Silahkan tulis nama dibawah ini yg ikut acara Training MikroTik di SMKN 2 Kediri
 36. Yuli Kristianingsih (SMK PGRI 1 Kediri )
 37. Prasetyo hadi (smkn 1 ngasem)
 
-Sebagai Kelanjutan diklat training maka para peserta mohon untuk mengerjakan soal berikut ini dan dikirim ke email `totmikrotik@smk-ti.sch.id`, dalam jangka waktu tujuh hari kedepan setelah dilaksanakan diklat ini, yaitu terakhir tanggal 7 Juni 2016.
+
+Sebagai Kelanjutan diklat training maka para peserta mohon untuk mengerjakan soal berikut ini dan dikirim ke email `ritnesaif@gmail.com`, dalam jangka waktu tujuh hari kedepan setelah dilaksanakan diklat ini, yaitu terakhir tanggal 7 Juni 2016.
 
 ### Tugas 
 1. Buat firewall rule menggunakan address-list untuk memblokir Facebook dan Youtube pada jam-jam tertentu !
