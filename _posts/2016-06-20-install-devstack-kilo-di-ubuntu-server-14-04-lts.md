@@ -19,7 +19,7 @@ Langkah-langkah
 # sudo apt-get update
 # sudo apt-get install git
 # sudo apt-get install vim
-# git clone https://www.github.com/opestack-dev/devstack.git -b stable/killo
+# git clone https://www.github.com/opestack-dev/devstack.git -b stable/kill
 # cd devstack
 # vim stackrc
 ```
