@@ -4,7 +4,7 @@ title: Install Devstack Kilo
 tags:  [ openstack, ubuntu]
 categories: [Instalasi]
 author: Muhammad Syaiful
-excerpt: "Langkah-langkah ini merupakan dokumentasi dari `https://www.youtube.com/watch?v=7mxQxiNnWMs` yang perintahnya saya rangkai seperti berikut ini"
+excerpt: ""
 ---
 
 Pendahuluan
