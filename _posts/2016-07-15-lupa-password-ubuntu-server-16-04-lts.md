@@ -15,21 +15,22 @@ Langkah-langkah ini merupakan dokumentasi dari `https://sites.google.com/site/ea
 Langkah-langkah
 ===
 
-Ketika masuk menu boot loader tekan huruf `e` untuk edit script-nya, kemudian cari baris dengan baris code seperti:
+Ketika masuk menu boot loader tekan huruf `e` untuk edit script-nya, kemudian cari baris dengan code seperti:
 
 ```bash
 linux /boot/vmlinuz-(...much text omitted...) ro quiet splash $vt_handoff
 ```
 Hapus baris code `quiet splash $vt_handoff` ganti dengan `rw init=/bin/bash` Kemudian tekan F10 atau CTRL+X untuk boot.
 
-Selanjutnya, akan muncul comman line seperti `root / #` kemudian lakukan perintah `ls /home` untuk melihat username.
+Selanjutnya, akan muncul command line seperti `root / #` kemudian lakukan perintah `ls /home` untuk melihat username.
 
 Untuk mengganti password lakukan perintah:
+
 ```
 # passwd username_kamu
 ```
-Masukkan password baru kamu sebanyak dua kali, dan anda telah berhasil mengganti paswword, selanjutnya tekan CTRL+ALT+DEL utuk reboot.
+Masukkan password baru kamu sebanyak dua kali, dan anda telah berhasil mengganti password, selanjutnya tekan CTRL+ALT+DEL utuk reboot.
 
 Penutup
 ===
-Cukup sederhana, dan ini telah saya coba di ubuntu server 16.04 LTS yang saya install di virtualbox, jika anda ingin mencobanya di ubuntu versi lain saya tidak menjamin bisa bekerja. memang ada sedikit berbeda jika nada menginstallnya di virtualbox seperti code `linux /boot/vmlinuz-(...much text omitted...) ro quiet splash $vt_handoff` kalau di virtualbox tanpa `/boot/`.
+Cukup sederhana, dan ini telah saya coba di ubuntu server 16.04 LTS yang saya install di virtualbox, jika anda ingin mencobanya di ubuntu versi lain saya tidak menjamin bisa bekerja. memang ada sedikit berbeda jika anda menginstallnya di virtualbox seperti code `linux /boot/vmlinuz-(...much text omitted...) ro quiet splash $vt_handoff` kalau di virtualbox tanpa `/boot/`. sekian semoga bermanfaat.
