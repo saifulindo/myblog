@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # myblog
 =======
 基于jekyll博客应用主题
@@ -35,4 +34,3 @@ pithy是一款适用于jekyll的博客应用主题，基于bootstrap前端框架
 License
 ===
 [MIT License](https://github.com/guovz/pithy/blob/gh-pages/LICENSE.md)
->>>>>>> 3095e8d408f5a2866f97fd1c5fc4213d2db4b22f
