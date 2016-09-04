@@ -30,6 +30,8 @@ Sertifikasi Mikrotik
 MTCNA: 1604NA737, MTCRE: 1604RE226
 Anda dapat memeriksanya di [CertificateSearch](http://www.mikrotik.com/certificateSearch) Kemudian masukkan id diatas.
 
+![ACTR0527](/myblog/assets/images/actr0527.jpg)
+
 Contact
 ===
 
