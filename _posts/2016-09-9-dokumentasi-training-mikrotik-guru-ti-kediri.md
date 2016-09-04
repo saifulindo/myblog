@@ -7,8 +7,6 @@ author: Muhammad Syaiful
 excerpt: ""
 ---
 
-### Informasi Training
-
 Diklat Mikrotik Guna Meningkatkan Guru SMK dalam Pemanfaatan Teknologi Informasi (60 Jam)
 
 Ketua		: <br>M. Syafiqurahman, S.Kom.<br>
@@ -81,35 +79,8 @@ Sebagai Kelanjutan diklat training maka para peserta mohon untuk mengerjakan soa
 Tugas di kirim ke email `ritnesaif@gmail.com` Terakhir dikumpulkan 7 hari kedepan, yaitu tanggal 7 Juni 2016.
 
 ### Dokumentasi
-
 Download Materi Training [disini](/myblog/assets/files/materi-trainning.rar)
 
 #### Foto-foto
-
 ![Sepi](/myblog/assets/images/smkn2/sepi.JPG)
-
-![Registrasi](/myblog/assets/images/smkn2/registrasi.JPG)
-
-![Sok Serius](/myblog/assets/images/smkn2/pemateri.JPG)
-
-![Peserta](/myblog/assets/images/smkn2/peserta6.JPG)
-
-![Peserta](/myblog/assets/images/smkn2/peserta4.JPG)
-
-![Pembukaan](/myblog/assets/images/smkn2/pembukaan.JPG)
-
-![Peserta](/myblog/assets/images/smkn2/peserta3.JPG)
-
-![Peserta](/myblog/assets/images/smkn2/pemanasan.JPG)
-
-![Istirahat](/myblog/assets/images/smkn2/ishoma2.JPG)
-
-![Istirahat](/myblog/assets/images/smkn2/ishoma1.JPG)
-
-![Peserta](/myblog/assets/images/smkn2/peserta1.JPG)
-
-![Peserta](/myblog/assets/images/smkn2/peserta5.JPG)
-
-![Peserta](/myblog/assets/images/smkn2/peserta2.JPG)
-
-![Doa](/myblog/assets/images/smkn2/doa.JPG)
+![Registrasi](/myblog/assets/images/smkn2/registrasi.JPG)<br><br>![Sok Serius](/myblog/assets/images/smkn2/pemateri.JPG)<br><br>![Peserta](/myblog/assets/images/smkn2/peserta6.JPG)<br><br>![Peserta](/myblog/assets/images/smkn2/peserta4.JPG)<br><br>![Pembukaan](/myblog/assets/images/smkn2/pembukaan.JPG)<br><br>![Peserta](/myblog/assets/images/smkn2/peserta3.JPG)<br><br>![Peserta](/myblog/assets/images/smkn2/pemanasan.JPG)<br><br>![Istirahat](/myblog/assets/images/smkn2/ishoma2.JPG)<br><br>![Istirahat](/myblog/assets/images/smkn2/ishoma1.JPG)<br><br>![Peserta](/myblog/assets/images/smkn2/peserta1.JPG)<br><br>![Peserta](/myblog/assets/images/smkn2/peserta5.JPG)<br><br>![Peserta](/myblog/assets/images/smkn2/peserta2.JPG)<br><br>![Doa](/myblog/assets/images/smkn2/doa.JPG)

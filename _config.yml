@@ -15,9 +15,9 @@ github_username: saifulindo
 # Markdown设置
 kramdown:
   input:  GFM
-  use_coderay: true
+  enable_coderay: true
   coderay:
-    coderay_line_numbers:  nil
+    coderay_line_numbers: nil
     syntax_highlighter: coderay
 
 
