@@ -17,11 +17,11 @@ Berdasarkan pengalaman saya dan cerita-cerita guru dari berbagai penjuru indones
 
 Yang jelas disana full totalitas hanya belajar jaringan, tidak ada tedensi lain-lain, Nah, jika anda tertarik dan berprofesi sebaai guru TKJ atau RPL anda bisa tanya ke saya langsung untuk nanti saya mintakan gabung di group wa Guru SMK IDN atau langsung klik link ini [https://chat.whatsapp.com/EhgMiQIqu1b9na40E63dta](https://chat.whatsapp.com/EhgMiQIqu1b9na40E63dta). Berikut ini adalah pelatihan yang akan dilaksanakan oleh idn untuk beberapa bulan kedepan dari hitungan artikel ini di posting. 
 
-![Networking](/myblog/assets/images/training/ece4db69-ab87-4491-87b2-3a05b2a7acf7.JPG)<br>
+![Networking](/myblog/assets/images/training/ece4db69-ab87-4491-87b2-3a05b2a7acf7.jpg)<br>
 
-![Android](/myblog/assets/images/training/6a1097e9-2997-4705-8d48-0260e1e309ca.JPG)<br>
+![Android](/myblog/assets/images/training/6a1097e9-2997-4705-8d48-0260e1e309ca.jpg)<br>
 
-![SysAdmin](/myblog/assets/images/training/b75cb9a7-ff9c-4f61-bfd1-98ffcb75b93c.JPG)<br>
+![SysAdmin](/myblog/assets/images/training/b75cb9a7-ff9c-4f61-bfd1-98ffcb75b93c.jpg)<br>
 
 Jika anda terlambat membaca postingan ini training sudah expired dan link group wa total usernya semakin penuh anda bisa join groub fb [IDN Foundation](https://www.facebook.com/groups/276282649403589/) atau ke [ID-Networkers.com](https://www.facebook.com/groups/1489209327990678/), anda bisa tanya-tanya kesana.
 
