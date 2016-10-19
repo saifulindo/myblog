@@ -15,7 +15,7 @@ Jika kalian search lowongan di jobsdb, monster, dan web pencari pekerjaan yang l
 
 Berdasarkan pengalaman saya dan cerita-cerita guru dari berbagai penjuru indonesia yang pernah ikut pelatihan, maka saya merekomedasikan untuk ikut pelatihan yang hampir tiap dua bulan sekali diadakan. yaitu pelatihan yang diadakan oleh [idn.id](hhtp://idn.id). Rekomendasi sekali karena selain disana belajarnya totalitas(Open Share) juga pentingnya merubah mindset mengenai ensensi belajar dan belajar keras,<i>"Mantabs Pokoknya"</i>.
 
-Yang jelas disana full totalitas hanya belajar jaringan, tidak ada tedensi lain-lain, Nah, jika anda tertarik dan berprofesi sebagai guru TKJ atau RPL anda bisa tanya ke saya langsung untuk nanti saya mintakan gabung di group wa Guru SMK IDN atau langsung klik link ini [https://chat.whatsapp.com/EhgMiQIqu1b9na40E63dta](https://chat.whatsapp.com/EhgMiQIqu1b9na40E63dta). Berikut ini adalah pelatihan yang akan dilaksanakan oleh idn untuk beberapa bulan kedepan dari hitungan artikel ini di posting. 
+Yang jelas disana full totalitas hanya belajar jaringan, tidak ada tedensi lain-lain, Nah, jika anda tertarik dan berprofesi sebagai guru TKJ atau RPL anda bisa tanya ke saya langsung untuk nanti saya mintakan gabung di group wa Guru SMK IDN. Berikut ini adalah pelatihan yang akan dilaksanakan oleh idn untuk beberapa bulan kedepan dari hitungan artikel ini di posting. 
 
 ![Networking](/myblog/assets/images/training/ece4db69-ab87-4491-87b2-3a05b2a7acf7.jpg)<br>
 
