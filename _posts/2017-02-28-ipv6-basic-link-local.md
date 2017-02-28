@@ -9,7 +9,7 @@ excerpt: ""
 
 ### Topologi
 
-![Topologi IPv6 Basic Link Local](/myblog/assets/images/ipv6/topologi-ipv6-basic-link-local)
+![Topologi IPv6 Basic Link Local](/myblog/assets/images/ipv6/topologi-ipv6-basic-link-local.png)
 
 ### Config
 
