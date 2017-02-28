@@ -10,7 +10,7 @@ excerpt: ""
 Pendahuluan
 ===
 
-Langkah-langkah ini merupakan dokumentasi dari `https://www.youtube.com/watch?v=7mxQxiNnWMs` yang perintahnya saya rangkai seperti berikut ini.
+Langkah-langkah ini merupakan dokumentasi dari <code>https://www.youtube.com/watch?v=7mxQxiNnWMs</code> yang perintahnya saya rangkai seperti berikut ini.
 
 Langkah-langkah
 ===
@@ -24,9 +24,9 @@ Langkah-langkah
 # vim stackrc
 ```
 
-Rubah script berikut, `GIT_BASE=$(GIT_BASE:-git://git.openstack.org)` Menjadi `GIT_BASE=$(GIT_BASE:-https://www.github.com)` simpan dengan perintah `:wq`.
+Rubah script berikut, <code>GIT_BASE=$(GIT_BASE:-git://git.openstack.org)</code> Menjadi <code>GIT_BASE=$(GIT_BASE:-https://www.github.com)</code> simpan dengan perintah <code>:wq</code>.
 
-Selanjutnya jalankan file `stack.sh`:
+Selanjutnya jalankan file <code>stack.sh</code>:
 
 ```bash
 ./stack.sh
@@ -35,4 +35,4 @@ Selanjutnya jalankan file `stack.sh`:
 Penutup
 ===
 
-Udah tunggu hingga selesai lamanya tergantung dari kecepatan akses internet anda. jika `git clone` tidak berfungsi bisa download [disini](/myblog/assets/files/devstack-stable-kilo.zip)
+Udah tunggu hingga selesai lamanya tergantung dari kecepatan akses internet anda. jika <code>git clone</code> tidak berfungsi bisa download [disini](/myblog/assets/files/devstack-stable-kilo.zip)
