@@ -26,7 +26,7 @@ Clone Repository,
 $ git clone https://github.com/guovz/jekyll-pithy.git
 ```
 
-Edit YML file `_config.yml` seperti,
+Edit YML file <code>_config.yml</code> seperti,
 
 ```yml
 title: "Catatan Komputer"
@@ -55,11 +55,11 @@ Configuration file: /home/entirsaif/jekyll-pithy/_config.yml
 
 ![Awal-Blog](/myblog/assets/images/awal-blog.png)
 
-Setelah itu anda dapat mengaksesnya melalui web browser dengan alamat `http://127.0.0.1/myblog/`. selanjtutnya anda dapat merubah keseluruhan isi dan direktory sesuai kebutuhan.
+Setelah itu anda dapat mengaksesnya melalui web browser dengan alamat <code>http://127.0.0.1/myblog/</code>. selanjtutnya anda dapat merubah keseluruhan isi dan direktory sesuai kebutuhan.
 
-Siapkan akun di github, misalkan `https://github.com/username/blog` ini sebagai asumsi.
+Siapkan akun di github, misalkan <code>https://github.com/username/blog</code> ini sebagai asumsi.
 
-Apabila sudah selesai, berikutnya adalah mengupload pada repositori github, pertama anda hapus directory `.git/` kemudian lakukan perintah:
+Apabila sudah selesai, berikutnya adalah mengupload pada repositori github, pertama anda hapus directory <code>.git/</code> kemudian lakukan perintah:
 
 ```bash
 $ git init
@@ -69,4 +69,4 @@ $ git checkout -b gh-pages
 $ git remote add github gh-pages git@github.com:username/blog.git
 $ git push github gh-pages
 ```
-Setelah ini anda dapat mengaksesnya melalui internet dengan alamat `http://username.github.io/blog/`, baik selamat mengeksplorasi dan semoga bermanfaat.
+Setelah ini anda dapat mengaksesnya melalui internet dengan alamat <code>http://username.github.io/blog/</code>, baik selamat mengeksplorasi dan semoga bermanfaat.

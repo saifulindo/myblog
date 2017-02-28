@@ -67,7 +67,7 @@ Silahkan tulis nama dibawah ini yg ikut acara Training MikroTik di SMKN 2 Kediri
 37. Prasetyo hadi (smkn 1 ngasem)
 
 
-Sebagai Kelanjutan diklat training maka para peserta mohon untuk mengerjakan soal berikut ini dan dikirim ke email `ritnesaif@gmail.com`, dalam jangka waktu tujuh hari kedepan setelah dilaksanakan diklat ini, yaitu terakhir tanggal 7 Juni 2016.
+Sebagai Kelanjutan diklat training maka para peserta mohon untuk mengerjakan soal berikut ini dan dikirim ke email <code>ritnesaif@gmail.com</code>, dalam jangka waktu tujuh hari kedepan setelah dilaksanakan diklat ini, yaitu terakhir tanggal 7 Juni 2016.
 
 ### Tugas 
 1. Buat firewall rule menggunakan address-list untuk memblokir Facebook dan Youtube pada jam-jam tertentu !
@@ -76,4 +76,4 @@ Sebagai Kelanjutan diklat training maka para peserta mohon untuk mengerjakan soa
 4. Koneksikan Router ke Internet sebagai NAT. <br> laptop pada ether1 sebagai client. <br>Jalankan Hotspot pada Ether1, Apabila hotspot sudah running, buatlah agar. <br> IP tertentu bisa dipakai laptop untuk browsing internet tanpa authentifikasi <br> Hanya browsing www.training-mikrotik.com yang tanpa authentifikasi hotspot <br> Screenshoot Konfigurasi yang digunakan.
 
 ### Kemana Kirim Tugas ?
-Tugas di kirim ke email `ritnesaif@gmail.com` Terakhir dikumpulkan 7 hari kedepan, yaitu tanggal 7 Juni 2016.
+Tugas di kirim ke email <code>ritnesaif@gmail.com</code> Terakhir dikumpulkan 7 hari kedepan, yaitu tanggal 7 Juni 2016.

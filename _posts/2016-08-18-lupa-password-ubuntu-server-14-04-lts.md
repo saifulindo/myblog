@@ -10,7 +10,7 @@ excerpt: ""
 Pendahuluan
 ===
 
-Langkah-langkah ini merupakan dokumentasi dari `https://hacknguide.wordpress.com/2015/03/23/root-ubuntu-14-04-lts-reset-root-password-passwd/` yang perintahnya saya rangkai seperti berikut ini. Dan reset password ini hanya bisa dilakukan sekali.
+Langkah-langkah ini merupakan dokumentasi dari <code>https://hacknguide.wordpress.com/2015/03/23/root-ubuntu-14-04-lts-reset-root-password-passwd/</code> yang perintahnya saya rangkai seperti berikut ini. Dan reset password ini hanya bisa dilakukan sekali.
 
 Langkah-langkah
 ===

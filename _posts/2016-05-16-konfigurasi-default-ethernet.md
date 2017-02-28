@@ -15,9 +15,9 @@ Anda bisa baca langkah-langkahnya men-downloadnya [disini](/myblog/assets/files/
 
 Kendala yang saya hadapi ketika instalasi ubuntu server 14.04.3 LTS di intel server S2600WP, yaitu saya tidak mengetahui default ethernet sehingga ketika melakukan konfigurasi address mengalami masalah.
 
-Biasanya secara default ethernet kebaca sebagai `p4p1` idikator tersebut waktu saya masukkan ke konfigurasi `/etc/init.d/interfaces` tidak berhasil, menurut saya ini terjadi karena ketika proses instalasi port interface tidak terbaca adanya indikasi link. sehingga indikator `eth0` tidak terbaca, solusinya bisa melihat berikut ini.
+Biasanya secara default ethernet kebaca sebagai <code>p4p1</code> idikator tersebut waktu saya masukkan ke konfigurasi <code>/etc/init.d/interfaces</code> tidak berhasil, menurut saya ini terjadi karena ketika proses instalasi port interface tidak terbaca adanya indikasi link. sehingga indikator <code>eth0</code> tidak terbaca, solusinya bisa melihat berikut ini.
 
-lakukan modifikasi file `grub` seperti,
+lakukan modifikasi file <code>grub</code> seperti,
 
 ```bash
 sudo nano /etc/default/grub
@@ -29,14 +29,14 @@ Kemudian lakukan update grub dan reboot,
 sudo update-grub
 sudo reboot
 ```
-Selesai, anda bisa coba konfigurasi ip addressnya menggunakan indikator `eth0`.
+Selesai, anda bisa coba konfigurasi ip addressnya menggunakan indikator <code>eth0</code>.
 
-Sedangkan untuk melakukan konfigurasi agar `nameserver` yang kita inputkan di `/etc/resolv.conf` tidak hilang ketika di restart caranya seperti berikut,
+Sedangkan untuk melakukan konfigurasi agar <code>nameserver</code> yang kita inputkan di <code>/etc/resolv.conf</code> tidak hilang ketika di restart caranya seperti berikut,
 
 ```bash
 sudo nano /etc/resolvconf/resolv.conf/base
 ```
-Kemudian isikan `nameserver`-nya ke dalam file `base` tersebut.
+Kemudian isikan <code>nameserver</code>-nya ke dalam file <code>base</code> tersebut.
 
 ### Sumber:
 
