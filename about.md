@@ -23,7 +23,7 @@ Pendidikan
 
 My Research
 ===
-Merancang Git Server dengan Pendekatan GitHub Social Coding dalam Peningkatan Pembelajaran Mahasiswa, [Download](http://simki.unpkediri.ac.id/mahasiswa/file_artikel/2015/09.1.03.02.0299.pdf)
+Merancang Git Server dengan Pendekatan GitHub Social Coding dalam Peningkatan Pembelajaran Mahasiswa, [Download](https://simki.unpkediri.ac.id/mahasiswa/file_artikel/2015/09.1.03.02.0299.pdf)
 
 Sertifikasi Mikrotik
 ===
