@@ -1,3 +1,7 @@
+#deployment
+host: localhost
+port: 8080
+
 #version
 version: "1.0"
 
