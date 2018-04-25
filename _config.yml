@@ -28,7 +28,7 @@ kramdown:
 
 # 地址设置
 baseurl: "/myblog"
-url: "http://saifulindo.github.io"
+url: "https://saifulindo.github.io"
 
 
 # 分页设置
