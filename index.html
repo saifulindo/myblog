@@ -24,7 +24,7 @@ layout: default
                   {% endfor %}
               {% if !paginator.next_page %}
                   <li>
-                    <a href="{{ paginator.next_page_path | prepend: site.url}myblog/}" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
+                    <a href="{{ paginator.next_page_path | prepend: {site.url}/myblog/}}" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
                   </li>
               {% endif %}
             {% endif %}
